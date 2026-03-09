@@ -1,17 +1,12 @@
 
+#### 联系方式
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+Email: <code>bjche25@stu.pku.edu.cn</code>  
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### 教育经历
+**北京大学** 数学科学学院在读博士生. 专业:计算数学.  (2025.9 至今)  
 
-#### Contact
+**南开大学**, 数学科学学院, 数学省身班.  (2021.9 – 2025.6) 
 
-Email: user[at]fas.harvard.edu
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
 
